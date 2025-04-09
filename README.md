@@ -31,4 +31,8 @@
   <a href="https://www.instagram.com/maico_alek" target="_blank" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=FF00FF"/>
   </a>
+
+  <a href="https://www.instagram.com/maico_alek" target="_blank" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Linktree-1C1C1C?style=for-the-badge&logo=linktree&logoColor=43E661"/>
+  </a>
 </p>
