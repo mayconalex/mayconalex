@@ -6,7 +6,7 @@
 
 - 🎯 De Natal/RN;
 
-- 🎯 Cursando Análise e Desenvolvimento de Sistemas (3º período);
+- 🎯 Cursando Análise e Desenvolvimento de Sistemas (4º período);
 
 - 🎯 Estudando Desenvolvimento Web, UX/UI Design e Treinamento de IA;
 
